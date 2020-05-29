@@ -1,0 +1,163 @@
+
+[
+  {
+    "code": "01",
+    "category": "Payment and Transfer",
+    "content": [
+      {
+        "question": "How do I transfer money?",
+        "answer": "To transfer money, simply sign in to your Mint account. Tap the + menu button at the bottom, and select Send Money. \nFor transfers from a Mint account to another Mint account, choose the recipient's account number, after it has been validated you can input the amount you want to transfer, then click send.\nFor transfers from your Mint account to Others, select the recipient’s bank from the list. Enter the recipient’s account number, input amount and click send.\n"
+      },
+      {
+        "question": "How much am I charged for transfers?",
+        "answer": "There are no charges for transfers made from your Mint account to another Mint account. For other bank transfers, you are charged:\nN10 for transfers below N5000\nN25 for transfers between N5000 - N50000\nN50 for transfers above N50000 \nMint has a transfer reward system for all customers where we save N12 for each of your transfers of N50000 and above. You can see your earnings on “Savings from Transfers” on the app home screen. Once it reaches N1000, you can withdraw funds to your Mint account and use it how you like, or leave it to keep saving.\n"
+      },
+      {
+        "question": "How do I fund my Mint account?",
+        "answer": "You can add money to your Mint account in three ways. \n1) Transfer from an existing bank account using the bank’s mobile app or internet banking. Our name is “Mint-Finex MFB”  \n2.) Use an existing card from your bank to move funds inside the Mint app. Click the + menu button on your app screen -> Send Money and follow the steps.\n3.) Walk into any bank and make a deposit using your account number\n"
+      },
+      {
+        "question": "What is the maximum amount I can transfer?",
+        "answer": "You can setup your transfer limits inside the app. Settings -> Account Management -> Transfer Limit\n"
+      },
+      {
+        "question": "How long will it take for my payment to reach the beneficiary’s account?",
+        "answer": "Payment is made Instantly. When you transfer funds or process any payment using your Mint App, the beneficiary will receive your funds' transfer in his/her bank account immediately."
+      },
+      {
+        "question": "What other transaction can I carry out on the Mint App?",
+        "answer": "You can save money with your mint account. You can also pay bills like airtime/data, power, and more. When you have had an active account for up to 3 months, you can request loans in your Mint app."
+      },
+      {
+        "question": "What do I need to begin a transaction on the Mint App?",
+        "answer": "To begin transacting using your Mint app, you must have completed the Mint onboarding process and you’re good to go."
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "category": "Savings with Mint",
+    "content": [
+      {
+        "question": "How do I start saving on Mint?",
+        "answer": "Mint Savings offers three possible saving options depending on how much you’d like to save, for how long, and how much interest you can earn. See the options below:\n\nTier 1 ( Save between N100 and N100,000.00 and get up to 6.5% interest per annum. Maturity period varies between 30 days to 90 days)\nTier 2 ( Save between N100,000 and N1,000,000 and get up to 8.5% interest per annum. Maturity period varies between 60 days to 1 year)\nTier 3 (Save from N1,000,000 above and get up to 10.5% interest per annum. Maturity period varies between 90 days to 2 years).\n\nYou can create up to 5 savings goals at a time, to help you plan for the future. For instance, you can create one goal for a car, another for a house, one for a holiday etc. You can choose a unique tier for each goal, meaning there’s more flexibility to help you achieve your goals. Once you select a savings tier and specific amount based on frequency, then you will be auto-debited from your Mint account to start saving.\n\nHow many savings goals can I create at a time?\nYou can create up to 5 goals at a time. You can save towards a house, car, holiday, emergency, etc."
+      },
+      {
+        "question": "How do I create a savings goal?",
+        "answer": "Using your mint app, click Create a saving plan and follow the steps to choose your tier, fund your goal, select maturity and start saving. Each day, you can open your savings plan to see how much interest you have earned."
+      },
+      {
+        "question": "What is the minimum amount that I can start saving with?",
+        "answer": "The minimum amount varies depending on the savings tier you choose - for Tier 1, the minimum amount to start with is N100; for tier 2, it is N100,000; and for tier 3, it is N1,000,000. You can choose to add more funds one-time upon starting, or use frequent payments to top up how you like."
+      },
+      {
+        "question": "Are there bank charges when you deduct from my account?",
+        "answer": "No, there are no bank charges."
+      },
+      {
+        "question": "When can I request for a withdrawal of my savings?",
+        "answer": "You can only request a withdrawal after the maturity period of your plan has elapsed. To see your maturity date on an existing plan, open the savings goal on your app home screen.\nIf your maturity date has passed and you request a withdrawal, you will receive the funds in your Mint account on the same day."
+      },
+      {
+        "question": "What other transaction can I carry out on the Mint App?",
+        "answer": "You can save money with your mint account. You can also pay bills like airtime/data, power, and more. When you have had an active account for up to 3 months, you can request loans in your Mint app."
+      },
+      {
+        "question": "Can I choose to make a one-off savings goal?",
+        "answer": "Yes, Mint allows users to make a one-off savings goal or a specific amount based on frequency, which will be auto-debited (e.g. N100 daily or N20,000 monthly). You can choose the type of goal you want to create."
+      },
+      {
+        "question": "Do I get interest on my savings?",
+        "answer": "Yes, you do. The interest rate depends on the saving tier you choose. The Tier 1 plan offers you a 6.5% annual interest rate on your savings, the Tier 2 plan offers you an 8.5% annual interest rate on your savings and the Tier 3 plan offers you a 10.5% annual interest rate on your savings."
+      },
+      {
+        "question": "Can I increase my savings at any time?",
+        "answer": "Yes, you can change the amount and frequency you have set for a goal. You can decide to change the frequency when the goal is already in progress."
+      },
+      {
+        "question": "Can I cancel my savings goal at any time?",
+        "answer": "No, you cannot cancel your savings goal once it has started. You will have to wait till the maturity date to access your funds and interest."
+      },
+      {
+        "question": "What happens when a goal has matured?",
+        "answer": "When a goal has matured, you can withdraw your savings plus interest. If you request a withdrawal, your Mint account will be credited on the same day."
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "category": "Security",
+    "content": [
+      {
+        "question": "Is the Mint app secure?",
+        "answer": "Yes, Mint uses high-level encryption protocols to keep your information and data private and secure. We will never share your details with anyone without your consent. Please view our Privacy Policy for more detailed information."
+      },
+      {
+        "question": "How do I create a strong password?",
+        "answer": "The app automatically assists you in creating a strong password when you create an account. It asks for a combination of lowercase letters, uppercase letters, numbers, and special characters."
+      },
+      {
+        "question": "How do I clear cookies from my browser?",
+        "answer": "If you ever have to do this, check instructions specific for your browser.  On Mac and the shortcut is Shift+Command+Delete. While on Windows, it is Ctrl+Shift+Delete."
+      },
+      {
+        "question": "How do I activate or deactivate my device from my Mint account?",
+        "answer": "To activate a new device, simply open your Mint app and head to the Login screen. You’ll see “register new device” under the password field. Click it and follow the steps - you’ll need your account number, phone number, and password."
+      },
+      {
+        "question": "What happens if my phone is stolen or damaged?",
+        "answer": "If your phone gets stolen please contact us quickly via our communication channels (email, LiveChat, social media and WhatsApp) to confirm your identity and block your account temporarily."
+      },
+      {
+        "question": "What happens if I forget my login email address or password?",
+        "answer": "Please contact us on our social channels or by email (customer@bankwithmint.com) if you forget your email address. If you forget your password, you can use the “Forgot Password” link on the login page to reset your password."
+      },
+      {
+        "question": "How does Mint protect my money?",
+        "answer": "All deposits are protected and insured by NDIC - Nigeria Deposit Insurance Corporation."
+      },
+      {
+        "question": "What would I do if my account was hacked?",
+        "answer": "Contact the Mint team immediately to suspend your account temporarily."
+      },
+      {
+        "question": "How do I protect my account?",
+        "answer": "You can protect your account by keeping your transaction pin and password to yourself, do not ever disclose private information no matter the case."
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "category": "Bills and Fees",
+    "content": [
+      {
+        "question": "Are there account maintenance charges on my Mint account?",
+        "answer": "No. Mint ensures that all accounts are properly maintained free of charge."
+      },
+      {
+        "question": "Do I get charged for using the Mint app?",
+        "answer": "No. There are no charges for using the Mint App."
+      },
+      {
+        "question": "How much am I charged to pay bills?",
+        "answer": "When you pay common bills such as airtime, power, TV subscriptions, and Internet service providers, there is no charge to you. Other less common bills may attract a small transaction charge."
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
